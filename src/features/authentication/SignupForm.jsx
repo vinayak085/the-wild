@@ -3,7 +3,7 @@ import Form from "../../ui/Form";
 import FormRow from "../../ui/FormRow";
 import Input from "../../ui/Input";
 
-// Email regex: /\S+@\S+\.\S+/
+// Email regex: /\S+@\S+\.\S+/56
 
 function SignupForm() {
   return (
